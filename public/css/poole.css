@@ -320,6 +320,14 @@ tbody tr:nth-child(odd) th {
   letter-spacing: 0;
 }
 
+/*
+ * Footer
+ */
+.footer {
+  color: #ccc;
+  text-align: center;
+  font-size: .6rem;
+}
 
 /*
  * Posts and pages
