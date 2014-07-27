@@ -4,21 +4,24 @@ title: Home
 ---
 
 <div class="posts">
-  {% for post in paginator.posts %}
+  {% for post in site.posts limit 2 %}
   <div class="post">
     <h1 class="post-title">
       <a href="{{ post.url }}">
         {{ post.title }}
       </a>
     </h1>
-
-    <span class="post-date">{{ post.date | date_to_string }}</span>
-
-    {{ post.content }}
+    {% assign author = site.data.authors[post.author] %}
+    {% if author %}
+    <span class="post-date">{{ post.date | date_to_string }} by {{ author.name }}</span>
+    {% endif %}
+    {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+    <a href="{{ post.url }}">Read more.</a>
   </div>
   {% endfor %}
 </div>
 
+<!--
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
@@ -35,3 +38,4 @@ title: Home
     <span class="pagination-item newer">Newer</span>
   {% endif %}
 </div>
+-->

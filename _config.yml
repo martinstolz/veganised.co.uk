@@ -6,7 +6,7 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            veganised
+title:            veganised.co.uk
 tagline:          The vegan interpretation
 url:              http://veganised.co.uk
 paginate:         1
@@ -20,3 +20,6 @@ author:
 version:          1.0.0
 github:
   repo:           https://github.com/poole/poole
+
+# Other
+excerpt_separator: <!--more-->
