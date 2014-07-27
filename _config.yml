@@ -6,15 +6,15 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
-url:              http://getpoole.com
+title:            veganised
+tagline:          The vegan interpretation
+url:              http://veganised.co.uk
 paginate:         1
 baseurl:          /
 author:
-  name:           Mark Otto
-  url:            https://twitter.com/mdo
-  email:          markdotto@gmail.com
+  name:           Martin Stolz
+  url:            https://twitter.com/martin_stolz
+  email:          blog@veganised.co.uk
 
 # Custom vars
 version:          1.0.0
