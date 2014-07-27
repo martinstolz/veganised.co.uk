@@ -36,7 +36,7 @@ Serves 2
 First bring the salted water to a boil. Put the potatoes in and cook them until tender. You could also steam the potatoes with their skin on. Both variants taste fantastic.
 
 ### The Scrambled Eggs
-While boiling the potatoes scramble the tofu with a fork. Add some sunflower oil or similar to a frying pan. Fry the onions until starting to brown, then add the scrambled tofu and the [Kala Namak](https://en.wikipedia.org/wiki/Kala_Namak) salt which smells like eggs due to its sodium sulphate. Fry for approx. 3 minutes until browned, add turmeric powder for the colour. In the end stir in some finely chopped chives but keep some chives for garnish. If it turns out to be too dry for you just add some oat cream.
+While boiling the potatoes smash the tofu with a fork. Add some sunflower oil or similar to a frying pan. Fry the onions until starting to brown, then add the tofu and the [Kala Namak](https://en.wikipedia.org/wiki/Kala_Namak) salt which smells like eggs due to its sodium sulphate. Fry for approx. 3 minutes until browned, add turmeric powder for the colour. In the end stir in some finely chopped chives but keep some chives for garnish. If it turns out to be too dry for you just add some oat cream.
 
 ### The Spinach
 The spinach can be blanched, cooled down with ice, to keep the vibrant green or just heat them up in a pan but do not fry. Add salt, pepper and a little bit of the nutmeg. Add the oat cream.
