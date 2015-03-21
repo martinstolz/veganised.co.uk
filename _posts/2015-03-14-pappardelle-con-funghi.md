@@ -7,12 +7,10 @@ author: friederike_wild
 *Our turn on one of our favourite Italian dishes*, pasta with Mushrooms. We recommend to serve it with broad, flat pasta like Pappardelle or Tagliatelle. The broad surface allows our chunky sauce to hold onto. 
 The use of [plant cream](https://en.wikipedia.org/wiki/Plant_cream) is an easy way to veganise many beloved creamy dishes.
 
-![The ingredients](/public/assets/spinach-potatoes-and-scrambled-eggs-result.jpg "The ingredients")
-
 <!--more-->
 
 ### Ingredients
-![The ingredients](/public/assets/spinach-potatoes-and-scrambled-eggs-ingredients.jpg "The ingredients")
+![The ingredients](/public/assets/pappardelle-con-funghi-ingredients.jpg "The ingredients")
 
 Serves 2
 #### Pasta
@@ -51,19 +49,18 @@ While cooking the pasta prepare the sauce.
 * Add a few tablespoons of pasta water to improve the taste and texture of the sauce. Wait and let the sauce thicken until the wanted consistency is reached
 * Add most of the parsley and all of the terragon and season with salt and pepper to taste
 
-![](/public/assets/spinach-potatoes-and-scrambled-eggs-result-1.jpg)
-![](/public/assets/spinach-potatoes-and-scrambled-eggs-result-2.jpg)
-![](/public/assets/spinach-potatoes-and-scrambled-eggs-result-3.jpg)
 
 ### Wrapping up
 For authentic italian styled pasta you want to add the pasta to the finished sauce and mix everything in the sauce pan before arranging it on a warm plate.
 
 Add parsley for garnish.
 
-![The result](/public/assets/spinach-potatoes-and-scrambled-eggs-result.jpg "The result")
+![The result](/public/assets/pappardelle-con-funghi-result.jpg "The result")
 
 ### Choosing the ingredients
 The taste of the [oat cream](http://www.oatly.com/) goes very well with the mushrooms but other plant based creams would work just as good.
+
+![](/public/assets/pappardelle-con-funghi-mushrooms.jpg)
 
 
 ### Here the nutrient facts, what have we won by veganising that dish.
