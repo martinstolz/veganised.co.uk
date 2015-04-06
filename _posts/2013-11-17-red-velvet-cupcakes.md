@@ -4,7 +4,7 @@ title: Vegan Red Velvet Cupcakes
 category: Treats
 tags: [cupcake, baking, sweets, vegan]
 author: friederike_wild
-published: false
+published: true
 ---
 
 *I love baking sweets.* Especially with healthy ingredients to create carefree treats. Hope you enjoy these cupcakes as much as I did. Yes, they are Vegan, Low Carb and Gluten Free.
