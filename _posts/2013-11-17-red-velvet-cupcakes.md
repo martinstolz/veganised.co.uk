@@ -11,6 +11,8 @@ published: true
 
 <!--more-->
 
+![The cupcakes](/public/assets/2013-11-17-red-velvet-cupcakes-result.jpg "The cupcakes")
+
 ### Ingredients
 
 The following turns into 12 cupcakes.
@@ -53,4 +55,3 @@ Gently place the topping on the cake and while rotating the base, spread the top
 
 My topping was a little too sour. I added the juice of half a lime. So my tip: add the juice slowly and taste to adjust. Maybe next time I’ll try a lemon.
 
-![The cupcakes](/public/assets/201311-red-velvet-cupcakes-result.jpg "The cupcakes")
