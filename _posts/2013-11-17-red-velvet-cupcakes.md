@@ -7,7 +7,7 @@ author: friederike_wild
 published: true
 ---
 
-*I love baking sweets.* Especially with healthy ingredients to create carefree treats. Hope you enjoy these cupcakes as much as I did. Yes, they are Vegan, Low Carb and Gluten Free.
+*I love baking sweets.* Especially with healthy ingredients to create guilt-free treats. Hope you enjoy these cupcakes as much as I did. Yes, they are Vegan, Low Carb and Gluten Free.
 
 <!--more-->
 
@@ -51,11 +51,6 @@ Stir cream cheese and slowly add other ingredients. Season to own taste. Keep co
 ### Finish up
 Gently place the topping on the cake and while rotating the base, spread the topping even as a pretty cup. I topped mine with some dried goji berries for an additional health kick and because the colour matches up with that of the cake.
 
-My topping was a little too sour. I added the juice of half a lime. So my tip: add that juice slowly and taste to adjust. Maybe next time I’ll try a lemon.
+My topping was a little too sour. I added the juice of half a lime. So my tip: add the juice slowly and taste to adjust. Maybe next time I’ll try a lemon.
 
-![The ingredients](/public/assets/201311-red-velvet-cupcakes-result "The cupcakes")
-
-
-### Here the nutrient facts, what have we won by veganising that dish.
-
-Leaving off the dairy cream in the dish no hormones, no puss and no antibiotics in your body. Without the probably pasteurised cow's milk you absorb more calcium than in the non vegan dish. The acidic acting cow milk depletes calcium from your bones. Research the myth about milk being one of the best calcium sources if that is new to you. 
+![The cupcakes](/public/assets/201311-red-velvet-cupcakes-result.jpg "The cupcakes")
