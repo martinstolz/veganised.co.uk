@@ -21,10 +21,6 @@ The recipe is not the quickest to make with it's five different components. But 
 ### Ingredients
 
 The ingredients amount from the cake recipe worked perfect for 10 small jars.
-#### Tools
-* Choose your jars. I filled 10 small ones, but a few more or less are fine – depending on desired portion size. To have the cakes portable use jars with a lid. Small plastic food storage containers will look less stylish, but work fine as well.
-* Prepare your food processor. Currently not having one, I used a blender instead. That worked, but took some more time, because the amounts are quite small. Also I had to take it apart after each layer to get everything out.
-
 
 #### Crust
 * 1 cup raw walnuts
@@ -88,16 +84,24 @@ The ingredients amount from the cake recipe worked perfect for 10 small jars.
 
 
 ### Prepare Crumble
-* Add all ingredients to food processor and pulse a few times to break down to a course texture.
+* Add all ingredients to the food processor and pulse a few times to get crumbles.
 * Sprinkle on top of layer 2.
 
 
 ### Prepare Caramel Sauce
-Process all ingredients in food processor until smooth starting with 1 Tbsp of water.
-Add water as necessary until desire consistency is reached.
-Transfer sauce to either a piping bag or to one corner of a small plastic bag. Snip off the tip of the corner and pipe the sauce onto the pie. I drew lattice over mine!
+* Add all ingredients to the food processor and process until smooth sauce. Start with one tablespoon of water.
+* Add more of the soaking water as necessary. The resulting sauce consistency should still be thick, but easy spreadable.
+* Either place the sauce with the help of a spoon. Or use a piping bag to add more kind of patteerns on top of the pies.
 
 
 ### Note
 All amounts are given in cups, which I didn’t mind since I got measurement cups as a xmas present. But since this turned out to be such a tasty treat I’m sure I’ll prepare it again and can then provide a metric version.
+
+
+The instructions call for a food processor. Currently not having one, I used a blender instead. That worked, but took some more time, because the amounts are quite small. Also I had to take it apart after each layer to get everything out.
+
+
+About the jars: I filled 10 small ones, but a few more or less are fine – depending on desired portion size. To have the cakes portable use jars with a lid. Small plastic food storage containers will look less stylish, but work fine as well.
+
+![Closed jar with pie](/public/assets/2014-03-19-apple-crumble-in-jar-result-2.jpg "Closed jar with pie")
 
