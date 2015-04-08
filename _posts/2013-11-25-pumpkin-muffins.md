@@ -7,7 +7,7 @@ author: friederike_wild
 published: true
 ---
 
-These pumpkin muffins are full of autumnal spices and to make it even more seasonal I used some chestnut flour. Chestnuts have a lightly sweet and nutty taste and that blends in very well with the other ingredients.
+*These pumpkin muffins* are full of autumnal spices and to make it even more seasonal I used some chestnut flour. Chestnuts have a lightly sweet and nutty taste and that blends in very well with the other ingredients.
 
 <!--more-->
 
