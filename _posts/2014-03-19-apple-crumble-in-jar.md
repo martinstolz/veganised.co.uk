@@ -7,7 +7,7 @@ author: friederike_wild
 published: true
 ---
 
-*This sweet healthy treat is inspired by the gü deserts.* One can get them in various flavours. They look totally cute the way they are layered in their glass jars. Unfortunatly they didn't think as far as to provide some vegan variations as well... Here comes a homemade guilt-free variation! Prepare a couple in advance and enjoy bringing a great snack to work.
+*This sweet healthy treat is inspired by the gü desserts.* One can get them in various flavours. They look totally cute the way they are layered in their glass jars. Unfortunatly they didn't think as far as to provide some vegan variations as well... Here comes a homemade guilt-free variation! Prepare a couple in advance and enjoy bringing a great snack to work.
 
 <!--more-->
 
