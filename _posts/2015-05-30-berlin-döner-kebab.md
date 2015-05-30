@@ -9,10 +9,10 @@ Some years ago I left Berlin missing the Döner the most. After changing my eati
 <!--more-->
 
 ### Ingredients
-![The ingredients](/public/assets/berlin-döner-kebab-ingredients-1.jpg "The ingredients - Salad")
-![The ingredients](/public/assets/berlin-döner-kebab-ingredients-2.jpg "The ingredients - Sauce")
-![The ingredients](/public/assets/berlin-döner-kebab-ingredients-3.jpg "The ingredients - Turkish Bread")
-![The ingredients](/public/assets/berlin-döner-kebab-ingredients-4.jpg "The ingredients - Turkish Bread")
+![Saitan](/public/assets/berlin-doner-kebab-ingredients-1.jpg "The ingredients - Saitan")
+![Sauce](/public/assets/berlin-doner-kebab-ingredients-2.jpg "The ingredients - Sauce")
+![Turkish Bread](/public/assets/berlin-doner-kebab-ingredients-3.jpg "The ingredients - Turkish Bread")
+![Veggies](/public/assets/berlin-doner-kebab-ingredients-4.jpg "The ingredients - Veggies")
 
 Serves 4
 #### The Turkish bread
@@ -49,7 +49,7 @@ If you do your own saitan then mix the vital wheat gluten with some salt, pepper
 ### Salad
 Slice the veggies how you like them or follow the style seen in the following photo.
 
-![The ingredients](/public/assets/berlin-döner-kebab-preparation-salad.jpg "The prepation of the salad")
+![The prepation of the salad](/public/assets/berlin-doner-kebab-preparation-salad.jpg "The prepation of the salad")
 
 ### Sauce
 "Which sauce? Garlic sauce please." We leave the dairy to the calfs where it belongs to and choose oat cream which has the same consistency. I have to admit the sauce on its own will not taste exaclty like the yoghurt version you would get from the Turks but when added to the other ingredients you will be pleased.
@@ -66,4 +66,4 @@ Open the pocket we cut into the bread before, coat the bread inside with as much
 
 ### Finished
 
-![The ingredients](/public/assets/berlin-döner-kebab-result.jpg "The result")
+![The result](/public/assets/berlin-doner-kebab-result.jpg "The result")
