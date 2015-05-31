@@ -6,7 +6,7 @@ image: /public/assets/preview/berlin-doner-kebab.jpg
 author: martin_stolz
 ---
 
-Some years ago I left Berlin missing the Döner the most. After changing my eating habits I just refrained from eating this meat heavy dish. Still missing the taste of savory, salty plus fresh salad with Turkish bread and garlic sauce I decided it is more than time to veganise the Döner also known as Vöner. Want to know more about why a Turkish meal made it into the Berlin [history](https://en.wikipedia.org/wiki/Doner_kebab)?
+Some years ago I left Berlin missing the Döner the most. After changing my eating habits I refrained from eating this meat heavy dish. Since I still missed the taste of savory, salty plus fresh salad with Turkish bread and garlic sauce I decided it is more than time to veganise the Döner also known as Vöner. Interested why a Turkish meal made it into the Berlin history? Read more on [wikipedia](https://en.wikipedia.org/wiki/Doner_kebab) about it.
 
 <!--more-->
 
@@ -54,7 +54,7 @@ Slice the veggies how you like them or follow the style seen in the following ph
 ![The prepation of the salad](/public/assets/berlin-doner-kebab-preparation-salad.jpg "The prepation of the salad")
 
 ### Sauce
-"Which sauce? Garlic sauce please." We leave the dairy to the calfs where it belongs to and choose oat cream which has the same consistency. I have to admit the sauce on its own will not taste exaclty like the yoghurt version you would get from the Turks but when added to the other ingredients you will be pleased.
+"Which sauce? Garlic sauce please." We leave the dairy to the calfs where it belongs to and choose oat cream which has the same consistency. I have to admit the sauce on its own will not taste exactly like the yoghurt version you would get from the Turks but when added to the other ingredients you will be pleased.
 So crush your garlic, mince it or whatever you like and mix it into as much oat cream you like. Chop parsley and mint, whereas mint is not involved all the time. Add the greens to the sauce and season with salt and pepper.
 
 ### Self-made saitan
