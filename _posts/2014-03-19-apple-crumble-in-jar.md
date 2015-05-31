@@ -3,6 +3,7 @@ layout: post
 title: Raw apple crumble in a jar
 category: Treats
 tags: [apple, crumble, gü, jar, raw, autumn, vegan]
+image: /public/assets/preview/2014-03-19-apple-crumble-in-jar.jpg
 author: friederike_wild
 published: true
 ---

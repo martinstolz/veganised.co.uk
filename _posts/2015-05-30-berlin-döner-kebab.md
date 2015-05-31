@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Döner Kebab Berlin Style
+tags: [döner, kebab, berlin, vegan]
+image: /public/assets/preview/berlin-doner-kebab.jpg
 author: martin_stolz
 ---
 

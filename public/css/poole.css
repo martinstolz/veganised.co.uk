@@ -329,6 +329,21 @@ tbody tr:nth-child(odd) th {
 }
 
 /*
+ * Posts overview = index
+ */
+ .post_content img {
+  max-width: 40%;
+  margin-right: 17px;
+  float: left;
+}
+
+.read_more {
+    float: right;
+    margin-top: -.3em;
+  }
+
+
+/*
  * Posts and pages
  *
  * Each post is wrapped in `.post` and is used on default and post layouts. Each
@@ -338,6 +353,7 @@ tbody tr:nth-child(odd) th {
 .page,
 .post {
   margin-bottom: 4em;
+  overflow: hidden;
 }
 
 /* Blog post or page title */

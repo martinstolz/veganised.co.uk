@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Spinach, Potatoes and Scrambled Tofu Eggs
+image: /public/assets/preview/spinach-potatoes-and-scrambled-eggs.jpg
 author: martin_stolz
 ---
 

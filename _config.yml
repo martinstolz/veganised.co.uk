@@ -23,3 +23,6 @@ github:
 
 # Other
 excerpt_separator: <!--more-->
+
+# Additional libs
+gems: [jekyll-auto-image]

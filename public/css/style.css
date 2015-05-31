@@ -1,0 +1,33 @@
+.veg_action {
+  background: #1F8AB6;
+  display: inline-block;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: .25em 1em;
+}
+
+a.veg_action,
+a.veg_action:link,
+a.veg_action:visited {
+  color: #FFF;
+  text-decoration: none;
+}
+
+a.veg_action:hover,
+a.veg_action:active,
+a.veg_action:focus {
+  text-decoration: none;
+  background: #2FB0D5;
+}
+
+a.veg_action_highlight,
+a.veg_action_highlight:link,
+a.veg_action_highlight:visited {
+  background: #E04C3E;
+}
+
+a.veg_action_highlight:hover,
+a.veg_action_highlight:active,
+a.veg_action_highlight:focus {
+  background: #FD4B22;
+}

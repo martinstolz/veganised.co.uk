@@ -3,6 +3,7 @@ layout: post
 title: German Lebkuchen
 category: Treats
 tags: [advent, baking, biscuits, christmas, cookies, gingerbread, lebkuchen, vegan, xmas]
+image: /public/assets/preview/2013-12-09-lebkuchen.jpg
 author: friederike_wild
 published: true
 ---
