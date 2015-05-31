@@ -26,44 +26,23 @@ title: Home
 
       <p>
         <a class="veg_action read_more" href="{{ post.url }}">Read&nbsp;more&nbsp;&#8594;</a>
-        <a class="comments_action" href="{{ BASE_PATH }}{{ post.url }}#disqus_thread">Leave a comment!</a>
+        <a class="comments_action" href="{{ BASE_PATH }}{{ post.url }}#disqus_thread"></a>
       </p>
     </div>
   </div>
   {% endfor %}
 </div>
 
-<!--
-<div class="pagination">
-  {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ site.baseurl }}page{{paginator.next_page}}">Older</a>
-  {% else %}
-    <span class="pagination-item older">Older</span>
-  {% endif %}
-  {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ site.baseurl }}page{{paginator.previous_page}}">Newer</a>
-    {% endif %}
-  {% else %}
-    <span class="pagination-item newer">Newer</span>
-  {% endif %}
-</div>
--->
-
 
 
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'veganised';
-
-//    var disqus_developer = 1; // This turns developer mode on
     
     /* * * DON'T EDIT BELOW THIS LINE * * */
     (function() {
         var dsq = document.createElement('script'); dsq.async = true;
-        dsq.type = 'text/javascript'; 
+        dsq.type = 'text/javascript';
         dsq.src = '//' + disqus_shortname + '.disqus.com/count.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
