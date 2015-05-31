@@ -8,7 +8,7 @@ published: true
 ---
 
 *Our turn on one of our favourite Italian dishes*, pasta with Mushrooms. We recommend to serve it with broad, flat pasta like Pappardelle or Tagliatelle. The broad surface allows our chunky sauce to hold onto. 
-The use of [plant cream](https://en.wikipedia.org/wiki/Plant_cream) is an easy way to veganise many beloved creamy dishes.
+The use of plant cream is an easy way to veganise many beloved creamy dishes.
 
 <!--more-->
 
@@ -25,7 +25,7 @@ Serves 2
 * 1 onion
 * 1 clove garlic
 * 3 cups wild mushrooms
-* oat or rice cream
+* oat or rice cream (See [plant cream](https://en.wikipedia.org/wiki/Plant_cream))
 * 1 cup parsley
 * half cup terragon
 * salt and pepper

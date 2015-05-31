@@ -31,3 +31,34 @@ a.veg_action_highlight:active,
 a.veg_action_highlight:focus {
   background: #FD4B22;
 }
+
+
+
+ul.share-buttons{
+  list-style: none;
+  width: 12em;
+  padding: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul.share-buttons li{
+  display: inline;
+}
+
+ul.share-buttons a:link {
+    color: #888888;
+}
+
+ul.share-buttons a:visited {
+    color: #888888;
+}
+
+ul.share-buttons a:hover {
+    color: #2D8CD0;
+}
+
+ul.share-buttons a:active {
+    color: #2D8CD0;
+}
