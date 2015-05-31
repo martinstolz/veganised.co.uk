@@ -4,6 +4,8 @@ title: Döner Kebab Berlin Style
 tags: [döner, kebab, berlin, vegan]
 image: /public/assets/preview/berlin-doner-kebab.jpg
 author: martin_stolz
+comments: true
+published: true
 ---
 
 Some years ago I left Berlin missing the Döner the most. After changing my eating habits I refrained from eating this meat heavy dish. Since I still missed the taste of savory, salty plus fresh salad with Turkish bread and garlic sauce I decided it is more than time to veganise the Döner also known as Vöner. Interested why a Turkish meal made it into the Berlin history? Read more on [wikipedia](https://en.wikipedia.org/wiki/Doner_kebab) about it.

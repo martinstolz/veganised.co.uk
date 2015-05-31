@@ -3,6 +3,8 @@ layout: post
 title: Spinach, Potatoes and Scrambled Tofu Eggs
 image: /public/assets/preview/spinach-potatoes-and-scrambled-eggs.jpg
 author: martin_stolz
+comments: true
+published: true
 ---
 
 *This is a German classic*, spinach with potatoes and scrambled eggs. Not many ingredients need to be replaced to veganise the dish, only some butter, double cream and eggs. In order to get an eggy texture and to get back protein into the meal we will use firm tofu. The typical yellow colour is brought to you by [turmeric](https://en.wikipedia.org/wiki/Turmeric) which apparently is also capable of [fighting inflammation](http://nutritionfacts.org/video/turmeric-curcumin-and-rheumatoid-arthritis/). Usually the spinach is enriched with double cream but we will replace it with plant based version.

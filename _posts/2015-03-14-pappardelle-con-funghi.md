@@ -3,6 +3,8 @@ layout: post
 title: Pappardelle Con Funghi
 image: /public/assets/preview/pappardelle-con-funghi.jpg
 author: friederike_wild
+comments: true
+published: true
 ---
 
 *Our turn on one of our favourite Italian dishes*, pasta with Mushrooms. We recommend to serve it with broad, flat pasta like Pappardelle or Tagliatelle. The broad surface allows our chunky sauce to hold onto. 

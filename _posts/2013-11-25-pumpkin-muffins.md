@@ -5,6 +5,7 @@ category: Treats
 tags: [chestnut flour, muffin, pumpkin, autumn, vegan]
 image: /public/assets/preview/2013-11-25-pumpkin-muffins.jpg
 author: friederike_wild
+comments: true
 published: true
 ---
 
