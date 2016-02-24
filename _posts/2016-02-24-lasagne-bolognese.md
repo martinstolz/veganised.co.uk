@@ -2,7 +2,7 @@
 layout: post
 title: Classic Lasagne Alla Bolognese
 tags: [italian, lasagne, pasta, bolognese, tomato]
-image: /public/assets/preview/2015-02-24-lasagne-bolognese.jpg
+image: /public/assets/preview/2016-02-24-lasagne-bolognese.jpg
 author: friederike_wild
 comments: true
 published: true
@@ -14,7 +14,7 @@ published: true
 
 <!--more-->
 
-![The ingredients - Pasta](/public/assets/2015-02-24-lasagne-pasta.jpg "The ingredients - Pasta")
+![The ingredients - Pasta](/public/assets/2016-02-24-lasagne-pasta.jpg "The ingredients - Pasta")
 
 ### Ingredients
 
@@ -71,9 +71,9 @@ Serves 2
 
 
 
-### The Bolognese Sauce
+#### The Bolognese Sauce
 
-![The ingredients](/public/assets/2015-02-24-lasagne-bolognese.jpg "The ingredients - Bolognese Sauce")
+![The ingredients](/public/assets/2016-02-24-lasagne-bolognese.jpg "The ingredients - Bolognese Sauce")
 
 0. Add approximately two table spoons of olive oil to a heated pan. Sauté half an onion, then add the chopped garlic and grated carrot. Wait till onions turn translucent.
 
@@ -89,9 +89,9 @@ Serves 2
 
 
 
-### The Béchamel Sauce
+#### The Béchamel Sauce
 
-![The ingredients - Bechamel Sauce](/public/assets/2015-02-24-lasagne-bechamel.jpg "The ingredients - Bechamel Sauce")
+![The ingredients - Bechamel Sauce](/public/assets/2016-02-24-lasagne-bechamel.jpg "The ingredients - Bechamel Sauce")
 
 0. Heat a saucepan and melt the margarine.
 0. Add the flour and whisk together till combined
@@ -99,9 +99,9 @@ Serves 2
 1. Add nutmeg, salt and pepper to taste
 
 
-### Cheesy topping
+#### Cheesy topping
 
-![The ingredients - Cheesy topping](/public/assets/2015-02-24-lasagne-cheese.jpg "The ingredients - Cheesy topping")
+![The ingredients - Cheesy topping](/public/assets/2016-02-24-lasagne-cheese.jpg "The ingredients - Cheesy topping")
 
 0. Grind the nutrional yeast flakes with the back of a spoon till fine. 
 0. Stir the yeast into four tablespoon of our Béchamel Sauce. Add the ground almonds and oat cream. Adjust the amount of almonds when using milk instead of cream. We aim for a creamy but not too thick consistency.
@@ -127,11 +127,10 @@ The pasta doesn't need to be pre-cooked since lasagne is baked in the oven long 
 0. Cover with foil and bake for 30 minutes.
 1. Remove the cover and bake for another 20 minutes.
 
-![The result](/public/assets/2015-02-24-lasagne-result.jpg "The result")
+![The result](/public/assets/2016-02-24-lasagne-result.jpg "The result")
 
 
-### Video
+### Step by step tutorial
 
-<a id="play-video" href="#">Play Video</a><br />
 
-<iframe width="420" height="315" src="http://www.youtube.com/embed/K3OVYD9WYXA?rel=0" frameborder="0" allowfullscreen> </iframe>
+<iframe width="680" height="382" src="http://www.youtube.com/embed/K3OVYD9WYXA?rel=0" frameborder="0" allowfullscreen> </ iframe>
