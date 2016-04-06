@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Pappardelle Con Funghi
+title: Pappardelle Ai Funghi
 image: /public/assets/preview/pappardelle-con-funghi.jpg
 author: friederike_wild
 comments: true
