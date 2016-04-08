@@ -9,7 +9,7 @@ published: true
 ---
 
 
-*Going vegan a lot of people think how hard it will be to live without cheese.* Luckily there are delicious alternatives to still enjoy your favourite foods without harming animals. Here is one of our all time favourite tricks and a must have with most of our pasta dishes: Parmesan.
+*Going vegan a lot of people think how hard it will be to live without cheese.* Luckily there are delicious alternatives to enjoy your favourite foods without harming animals. Here is one of our all time favourite tricks and a must have with most of our pasta dishes: Parmesan.
 
 <!--more-->
 
@@ -27,7 +27,7 @@ Opening a container of yeast flakes you probably will recognise the cheesy smell
 * Salt
 
 
-#### Preparation steps
+### Preparation
 
 ![The ingredients](/public/assets/2016-04-08-cheese_parmesan_ingredients.jpg "The ingredients")
 
@@ -40,6 +40,7 @@ Ready to go! Add it as topping to all your favourite pasta dishes where you have
 
 You can prepare more at once and keep it in an air tight container with a lid on till next time.
 
+**Extra tip:** If the following pasta picture makes you hungry: You can find the recipe for a delicious bolognese sauce as part of our [Lasagne](http://veganised.co.uk/2016/02/24/lasagne-bolognese/).
 
 ![Vegan Parmesan on Pasta](/public/assets/2016-04-08-cheese_parmesan_pasta.jpg "Vegan Parmesan on Pasta")
 
