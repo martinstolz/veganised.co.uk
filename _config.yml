@@ -1,6 +1,5 @@
 # Dependencies
-markdown:         redcarpet
-pygments:         true
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -25,4 +24,4 @@ github:
 excerpt_separator: <!--more-->
 
 # Additional libs
-gems: [jekyll-auto-image]
+gems: [jekyll-auto-image, jekyll-paginate]

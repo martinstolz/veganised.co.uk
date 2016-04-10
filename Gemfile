@@ -1,4 +1,9 @@
 source 'https://rubygems.org'
 
 gem 'github-pages'
-gem 'jekyll-auto-image'
+
+group :jekyll_plugins do
+   gem 'jekyll-auto-image'
+   gem 'jekyll-paginate'
+ end
+
