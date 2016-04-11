@@ -4,16 +4,32 @@
     {% assign url = page.shortUrl %}
 {% endif %}
 
-<ul class="share-buttons">
+  <div class="share-container">
 
-  <li><a href="https://twitter.com/intent/tweet?source={{ url }}&text={{ page.title }}:%20{{ url }}&via=veganised_co_uk" target="_blank" title="Tweet"><i class="fa fa-twitter-square fa-2x"></i></a></li><li>
-  <a href="https://plus.google.com/share?url={{ url }}" target="_blank" title="Share on Google+"
-  onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-google-plus-square fa-2x"></i></a></li><li>
-  <a href="mailto:?subject={{ page.title }}&body={{ page.title }}:%0D%0A{{ url }}" target="_blank" title="Email">
-	<i class="fa fa-envelope-square fa-2x"></i>
-  </a></li>
+    <script>
+    function shareToFacebook() {
+      FB.ui({
+        method: 'share',
+        href: '{{ url }}',
+        redirect_uri: '{{ url }}',
+        name: '{{ page.title }}',
+        caption: '{{ site.title }}',
+        ref: 'fac'
+      }, function(response){});
+      return false;
+    }
+    </script>
 
-</ul>
+    <ul class="share-buttons">
 
+    <li><a href="#" onclick="shareToFacebook();" rel="nofollow" target="_blank" title="Share on Facebook"><i class="fa fa-facebook-square fa-2x"></i></a></li><li> 
+      <a href="https://twitter.com/intent/tweet?source={{ url }}&amp;text={{ page.title }}:%20{{ url }}&amp;via={{ site.twitter_username }}" target="_blank" title="Tweet"><i class="fa fa-twitter-square fa-2x"></i></a></li><li>
+      <a href="https://plus.google.com/share?url={{ url }}" target="_blank" title="Share on Google+"
+      onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-google-plus-square fa-2x"></i></a></li><li>
+      <a href="mailto:?subject={{ page.title }}&amp;body={{ page.title }}:%0D%0A{{ url }}" target="_blank" title="Email">
+    	<i class="fa fa-envelope-square fa-2x"></i>
+      </a></li>
 
+    </ul>
 
+  </div>

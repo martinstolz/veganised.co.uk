@@ -1,3 +1,10 @@
+@media only screen and (min-width: 768px) {
+    .content {
+        padding-top: 130px;
+    }
+}
+
+
 .veg_action {
   background: #1F8AB6;
   display: inline-block;
@@ -32,11 +39,15 @@ a.veg_action_highlight:focus {
   background: #FD4B22;
 }
 
+.share-container {
+  display: table;
+  margin: 0 auto;
+}
 
-
-ul.share-buttons{
+ul.share-buttons {
   list-style: none;
-  width: 12em;
+  width: auto;
+  margin: 0;
   padding: 0;
   display: block;
   margin-left: auto;
@@ -48,17 +59,59 @@ ul.share-buttons li{
 }
 
 ul.share-buttons a:link {
-    color: #888888;
+  color: #888888;
 }
 
 ul.share-buttons a:visited {
-    color: #888888;
+  color: #888888;
 }
 
 ul.share-buttons a:hover {
-    color: #2D8CD0;
+  color: #2D8CD0;
 }
 
 ul.share-buttons a:active {
-    color: #2D8CD0;
+  color: #2D8CD0;
 }
+
+
+.footer {
+  display: block;
+  max-width: none;
+  padding: 1.8em 0;
+  background: #F5F5F5;
+  border-top: 1px #EAEAEA solid;
+  margin-top: 3em;
+}
+
+ul.social-buttons{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.4em;
+}
+
+ul.social-buttons li{
+  display: inline;
+}
+
+ul.social-buttons a:link {
+  color: #888888;
+}
+
+ul.social-buttons a:visited {
+  color: #888888;
+}
+
+ul.social-buttons a:hover {
+  color: #2D8CD0;
+}
+
+ul.social-buttons a:active {
+  color: #2D8CD0;
+}
+
+

@@ -7,13 +7,16 @@ permalink:        pretty
 # Setup
 title:            veganised.co.uk
 tagline:          The vegan interpretation
+description:      We veganise classic recipes from all over the world to help stopping animal cruelty whilst providing fantastic taste.
 url:              http://veganised.co.uk
+twitter_username: veganised_co_uk
 paginate:         1
 baseurl:          /
 author:
   name:           Martin Stolz
   url:            https://twitter.com/martin_stolz
   email:          blog@veganised.co.uk
+
 
 # Custom vars
 version:          1.0.0
