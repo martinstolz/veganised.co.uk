@@ -18,6 +18,7 @@ published: true
 ### Ingredients
 
 The following turns into 12 vegan muffins.
+
 #### Dry ingredients
 * 140g whole spelt flour (aka "dinkel wheat")
 * 100g chestnut flour (OR more whole spelt flour)

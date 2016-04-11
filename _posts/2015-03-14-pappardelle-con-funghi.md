@@ -16,6 +16,7 @@ The use of plant cream is an easy way to veganise many beloved creamy dishes.
 ![The ingredients](/public/assets/pappardelle-con-funghi-ingredients.jpg "The ingredients")
 
 Serves 2
+
 #### Pasta
 * egg-free pasta of your choice
 * salted water

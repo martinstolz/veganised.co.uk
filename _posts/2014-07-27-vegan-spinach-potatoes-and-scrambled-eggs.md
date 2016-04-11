@@ -16,6 +16,7 @@ published: true
 ![The ingredients](/public/assets/spinach-potatoes-and-scrambled-eggs-ingredients.jpg "The ingredients")
 
 Serves 2
+
 #### For the potatoes
 * potatoes
 * parsley for garnish

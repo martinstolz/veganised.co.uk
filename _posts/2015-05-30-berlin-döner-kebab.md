@@ -19,6 +19,7 @@ Some years ago I left Berlin missing the Döner the most. After changing my eati
 ![Veggies](/public/assets/berlin-doner-kebab-ingredients-4.jpg "The ingredients - Veggies")
 
 Serves 4
+
 #### The Turkish bread
 * Thick flatbread, usually round shape from Turkish stores
 

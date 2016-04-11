@@ -18,6 +18,7 @@ published: true
 ### Ingredients
 
 The following turns into 12 cupcakes.
+
 #### Cupcakes – Dry ingredients
 * 60g coconut flour
 * 2 teaspoons baking powder

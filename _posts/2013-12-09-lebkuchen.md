@@ -26,6 +26,7 @@ Usually I was creating small Lebkuchen piles on top of wafer, but this time I we
 ### Ingredients
 
 Ingredients to fill approximately two baking trays
+
 #### Dough
 * 250g almonds
 * 250g hazelnuts + pecan

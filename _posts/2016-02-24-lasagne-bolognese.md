@@ -57,7 +57,7 @@ Serves 2
 
 #### Pasta
 
-* Lasagne sheets
+* Egg-free lasagne sheets
 
 
 ### Preparation
