@@ -27,4 +27,4 @@ github:
 excerpt_separator: <!--more-->
 
 # Additional libs
-gems: [jekyll-auto-image, jekyll-paginate]
+gems: [jekyll-auto-image, jekyll-paginate, jekyll-feed]
