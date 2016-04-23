@@ -21,9 +21,10 @@ Opening a container of yeast flakes you probably will recognise the cheesy smell
 
 ### Ingredients
 
+Plenty for 2 pasta lovers
 
-* 2 tbsp nutrional yeast flakes
-* 4 tbsp ground almonds
+* 1 tbsp nutrional yeast flakes
+* 3 tbsp ground almonds
 * Salt
 
 

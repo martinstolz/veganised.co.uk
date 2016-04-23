@@ -16,7 +16,7 @@ This smoothie will delight everyone who loves the taste of apple pie. With the n
 
 ### Ingredients
 
-Serves 2
+Yields 2 servings
 
 * 1½ cup water
 * ⅓ cup oats
