@@ -48,7 +48,7 @@ Serves 2
 #### Cheesy topping
 
 * 4 tbsp of our Béchamel Sauce
-* 1 tbsp nutrional yeast flakes
+* 1 tbsp nutritional yeast flakes
 * 1 tbsp ground almonds
 * 3 tbsp oat cream (or oat milk)
 * Salt
@@ -103,7 +103,7 @@ Serves 2
 
 ![The ingredients - Cheesy topping](/public/assets/2016-02-24-lasagne-cheese.jpg "The ingredients - Cheesy topping")
 
-0. Grind the nutrional yeast flakes with the back of a spoon until fine. 
+0. Grind the nutritional yeast flakes with the back of a spoon until fine. 
 0. Stir the yeast into four tablespoons of our Béchamel sauce. Add the ground almonds and oat cream. Adjust the amount of almonds when using milk instead of cream. We aim for a creamy but not too thick consistency.
 0. Season with salt and thyme.
 

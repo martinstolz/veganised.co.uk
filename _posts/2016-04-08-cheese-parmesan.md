@@ -23,7 +23,7 @@ Opening a container of yeast flakes you probably will recognise the cheesy smell
 
 Plenty for 2 pasta lovers
 
-* 1 tbsp nutrional yeast flakes
+* 1 tbsp nutritional yeast flakes
 * 3 tbsp ground almonds
 * Salt
 
@@ -32,7 +32,7 @@ Plenty for 2 pasta lovers
 
 ![The ingredients](/public/assets/2016-04-08-cheese_parmesan_ingredients.jpg "The ingredients")
 
-0. Grind the nutrional yeast flakes with the back of a spoon until powdery
+0. Grind the nutritional yeast flakes with the back of a spoon until powdery
 0. Add the ground almonds
 0. Season with salt
 0. Mix everything together
