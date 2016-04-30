@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oven-Roasted autumn vegetables
-tags: [autumn, pumpkin, pomegranate, vegan]
+tags: [pumpkin, pomegranate, autumn, seasonal, vegan, savory, vegetarian]
 image: /public/assets/preview/2013-11-24-oven-roasted-autumn-vegetables.jpg
 author: friederike_wild
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Döner Kebab Berlin Style
-tags: [döner, kebab, berlin, vegan]
+tags: [döner, kebab, saitan, berlin, savory, vegan, vegetarian]
 image: /public/assets/preview/berlin-doner-kebab.jpg
 author: martin_stolz
 comments: true

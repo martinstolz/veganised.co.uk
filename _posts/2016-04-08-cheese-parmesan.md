@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vegan Parmesan - Pasta Topping  
-tags: [cheese, parmesan, pasta, italian]
+tags: [cheese, parmesan, pasta, savory, vegan, vegan pasta, vegetarian]
 image: /public/assets/preview/2016-04-08-cheese_parmesan.jpg
 author: friederike_wild
 comments: true

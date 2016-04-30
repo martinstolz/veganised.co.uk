@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Pappardelle Ai Funghi
+tags: [mushroom, funghi, pasta, pappardelle, italian, savory, vegan, vegan pasta, vegetarian]
 image: /public/assets/preview/pappardelle-con-funghi.jpg
 author: friederike_wild
 comments: true

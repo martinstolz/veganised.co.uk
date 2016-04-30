@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Apple Pie Smoothie
-tags: [smoothie, apple, applepie, sweet, breakfast]
+tags: [smoothie, apple, applepie, sweet, breakfast, vegan, vegetarian]
 image: /public/assets/preview/2016-03-14-smoothie-apple-pie.jpg
 author: friederike_wild
 comments: true

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Classic Lasagne Alla Bolognese
-tags: [italian, lasagne, pasta, bolognese, tomato]
+tags: [lasagne, bolognese, ragu, bechamel, tomato, pasta, italian, savory, vegan, vegan pasta, vegetarian]
 image: /public/assets/preview/2016-02-24-lasagne-bolognese.jpg
 author: friederike_wild
 comments: true

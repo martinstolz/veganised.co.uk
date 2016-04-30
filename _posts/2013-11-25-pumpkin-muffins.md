@@ -2,7 +2,7 @@
 layout: post
 title: Pumpkins sweet side – Muffins
 category: Treats
-tags: [chestnut flour, muffin, pumpkin, autumn, vegan]
+tags: [chestnut flour, muffin, pumpkin, autumn,  seasonal, vegan, sweet, vegetarian]
 image: /public/assets/preview/2013-11-25-pumpkin-muffins.jpg
 author: friederike_wild
 comments: true

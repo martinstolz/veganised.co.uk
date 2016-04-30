@@ -2,7 +2,7 @@
 layout: post
 title: Red Velvet Cupcakes 
 category: Treats
-tags: [cupcake, baking, sweets, vegan]
+tags: [cupcake, baking, sweet, vegan, vegetarian]
 image: /public/assets/preview/2013-11-17-red-velvet-cupcakes.jpg
 author: friederike_wild
 comments: true
