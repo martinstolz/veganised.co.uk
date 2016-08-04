@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A quick Mushroom Burger
+title: Vegan Mushroom Burger
 tags: [burger, mushroom, bbq, avocado, american, vegan, vegan burger, vegetarian]
 image: /public/assets/preview/2016-08-01-mushroom-burger.jpg
 author: friederike_wild
@@ -9,14 +9,13 @@ published: true
 ---
 
 
-*Hands up who loves burgers!* We’ve been experimenting a lot and came up with a quick, simple, yet mind-blowing delicious combination. 
+*Hands up who loves burgers!* After experimenting for months we came up with probably the easiest recipe you can imagine. Get ready for this mind-blowing delicious combination. 
 
 <!--more-->
 
 ![Burger](/public/assets/2016-08-01-mushroom-burger.jpg "Burger")
 
-
-Lots of vegan burgers start with preparing a patty. Based on beans or grains some of them taste amazing, but they are extra work and often they fall apart after the first bite. Instead we will use a patty readily provided by nature — portobello. These large mushrooms are actually the mature state of the widely used champignon or button mushroom. Since they are fully-grown they lose some moisture which leads to an even more meaty texture and earthy taste.
+Most burger recipes want you to prepare the patties by mincing, mashing, mixing, kneading and what not. Based on beans or grains some of them taste amazing, but they are extra work and often they fall apart after the first bite. Instead we just use the patty provided by nature — the cap of the portobello mushroom. These large mushrooms are actually the mature state of the widely used champignon or button mushroom. Since they are fully-grown they lose some moisture which leads to an even more meaty texture and earthy taste.
 
 Using store-bought burger buns brings the preparation time further down. When shopping you have to check the ingredients, since some buns contain unnecessary egg and milk ingredients. We prefer to bake our own buns which will be featured in the future with a more advanced burger recipe.
 
@@ -34,7 +33,7 @@ Yields 4 burgers
 
 * 4 burger buns
 
-#### Mushroom Pattys
+#### Mushroom Patties
 
 * 4 portobello mushrooms
 * Soy sauce
