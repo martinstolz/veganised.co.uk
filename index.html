@@ -12,9 +12,20 @@ title: Home
       </a>
     </h1>
     {% assign author = site.data.authors[post.author] %}
-    {% if author %}
-    <span class="post-date">{{ post.date | date_to_string }} by {{ author.name }}</span>
+
+    {% assign latest_date = post.date | date_to_string %}
+    {% if post.date_original %}
+      {% assign original_date = post.date_original | date_to_string %}
+    {% else %}
+      {% assign original_date =  %}
     {% endif %}
+
+    {% capture post_info %}{{ latest_date }}
+      {% if original_date %} (Original: {{ original_date }}){% endif %}
+      {% if author %} by {{ author.name }}{% endif %}
+    {% endcapture %}
+
+    <span class="post-date">{{ post_info }}</span>
     <div class="post_content">
       {% if post.image %}
         <a class="header_image" href="{{ BASE_PATH }}{{ post.url }}">

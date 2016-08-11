@@ -19,6 +19,14 @@
   {% else %}
      {% capture og_description %}{{ site.description }}{% endcapture %}
   {% endif %}
+
+
+  {% if page.date_original %}
+  {% assign original_date = page.date_original %}
+  {% else %}
+  {% assign original_date = page.date %}
+  {% endif %}
+
   <title>{{ html_title }}</title>
 
 
@@ -39,7 +47,7 @@
   {% if page.title != "Home" %}
   <meta property="og:updated_time" content="{{ page.date }}" />
 
-  <meta property="article:published_time" content="{{ page.date }}" />
+  <meta property="article:published_time" content="{{ original_date }}" />
   <meta property="article:modified_time"  content="{{ page.date }}" />
   {% for tag in page.tags %}<meta property="article:tag" content="{{ tag }}" />
   {% endfor %}
