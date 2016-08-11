@@ -18,6 +18,11 @@ author:
   url:            https://twitter.com/veganised_co_uk
   twitter:        veganised_co_uk
   email:          blog@veganised.co.uk
+comments:
+  provider               : "disqus"
+  disqus:
+    shortname            : "veganised"
+
 
 
 # Custom vars
