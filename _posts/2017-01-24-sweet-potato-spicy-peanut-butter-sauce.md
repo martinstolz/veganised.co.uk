@@ -4,8 +4,8 @@ title: Sweet Potato and Spicy Peanut Butter Sauce
 tags: [sweet potato, spicy, peanut butter, simple, autumn, seasonal, savory, vegan, vegan pasta, vegetarian]
 image: /public/assets/preview/2017-01-24_sweet-potato-spicy-peanut-butter-sauce.jpg
 author: martin_stolz
-comments: false
-published: false
+comments: true
+published: true
 ---
 
 Once upon a day we visited friends in Berlin and they cooked this amazing recipe which normally has dairy as a topping. Probably not a hard task to veganise it, though the recipe was written in German and that's why it finds its way onto this blog.
